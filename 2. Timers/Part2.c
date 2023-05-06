@@ -2,7 +2,7 @@
  * Part2.c
  *
  *  Created on: Feb 11, 2023
- *      Author: Russell Trafford
+ *      Author: Thomas Rasa
  *
  *      This code will need to change the speed of an LED between 3 different speeds by pressing a button.
  */
